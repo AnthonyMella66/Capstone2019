@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.botfactory.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\McDSL Dev\\Desktop\\Capstone_2019\\Capstone2019\\botFactory\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "botFactory [Testing]"
+        }
+      }
+    }
+  ]
+}
