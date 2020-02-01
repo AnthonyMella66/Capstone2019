@@ -1,4 +1,4 @@
-bot_position:2
+bot_position:1
 bot_scale:1
 bot_model:2
 audio_lib:2
