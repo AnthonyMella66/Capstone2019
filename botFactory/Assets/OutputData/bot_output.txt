@@ -274,3 +274,27 @@ Suit bot scale updated to : (3, 7, 3)
 Suit bot material set to: SuitMAT_Red (Instance) (UnityEngine.Material)
 --- --- 
 
+--- Butterfly bot information below ---
+Butterfly bot position updated to: (385, 34, 464)
+Butterfly bot scale updated to: (0.05, 0.05, 0.05)
+Butterfly bot material set to : butterfly_Albedo 1 (Instance) (UnityEngine.Material)
+--- --- 
+
+-- Suit bot information below ---
+Suit bot material set to : (372, 26, 467)
+Suit bot scale updated to : (3, 7, 3)
+Suit bot material set to: SuitMAT_Red (Instance) (UnityEngine.Material)
+--- --- 
+
+--- Butterfly bot information below ---
+Butterfly bot position updated to: (385, 34, 464)
+Butterfly bot scale updated to: (0.05, 0.05, 0.05)
+Butterfly bot material set to : butterfly_Albedo 1 (Instance) (UnityEngine.Material)
+--- --- 
+
+-- Suit bot information below ---
+Suit bot material set to : (372, 26, 467)
+Suit bot scale updated to : (3, 7, 3)
+Suit bot material set to: SuitMAT_Red (Instance) (UnityEngine.Material)
+--- --- 
+
