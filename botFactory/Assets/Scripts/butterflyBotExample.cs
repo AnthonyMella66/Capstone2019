@@ -9,10 +9,10 @@ using Newtonsoft.Json.Linq;
 
 public class BotConfig
 {
-    public Dictionary<string, string> keywordDict { get; set; }
+    public Dictionary<string, string> KeywordDict { get; set; }
 }
 
-public class butterflyBotExample : MonoBehaviour
+public class ButterflyBotExample : MonoBehaviour
 {
     public Transform butterflyBotTransform;
     public MeshRenderer butterflyMeshRendererLeftWingUp;
@@ -30,7 +30,7 @@ public class butterflyBotExample : MonoBehaviour
         StreamReader reader = new StreamReader("Assets/InputData/new_config.json");
         string jsonStr = reader.ReadToEnd();
         Dictionary<string, string> jsonDict = JsonConvert.DeserializeObject<Dictionary<string, string>>(jsonStr);
-        myBot.keywordDict = jsonDict;
+        myBot.KeywordDict = jsonDict;
         return myBot;
     }
 
@@ -38,7 +38,9 @@ public class butterflyBotExample : MonoBehaviour
     void Start()
     {
         BotConfig ourBot = ConfParser();
-        Debug.Log("new dictionary stuff " + ourBot.keywordDict["hello"]);
+        Debug.Log("new dictionary stuff " + ourBot.KeywordDict["hello"]);
+        List<string> keyList = new List<string>(ourBot.KeywordDict.Keys);
+        List<string> valueList = new List<string>(ourBot.KeywordDict.Values);
     }
 
     // Update is called once per frame
