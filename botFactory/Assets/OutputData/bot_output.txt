@@ -298,3 +298,15 @@ Suit bot scale updated to : (3, 7, 3)
 Suit bot material set to: SuitMAT_Red (Instance) (UnityEngine.Material)
 --- --- 
 
+-- Suit bot information below ---
+Suit bot material set to : (372, 26, 467)
+Suit bot scale updated to : (3, 7, 3)
+Suit bot material set to: SuitMAT_Red (Instance) (UnityEngine.Material)
+--- --- 
+
+-- Suit bot information below ---
+Suit bot material set to : (372, 26, 467)
+Suit bot scale updated to : (3, 7, 3)
+Suit bot material set to: SuitMAT_Red (Instance) (UnityEngine.Material)
+--- --- 
+
