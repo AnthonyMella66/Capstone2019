@@ -1,0 +1,8 @@
+--- Log of Keywords and responses in current simulation ---
+
+Keyword : 03:10 PM --> Hello
+Response : 03:10 PM --> I heard you say hello!
+
+Keyword : 03:10 PM --> Where is the bucket?
+Response : 03:10 PM --> On the table
+

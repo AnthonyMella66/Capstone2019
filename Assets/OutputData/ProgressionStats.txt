@@ -1,0 +1,52 @@
+
+Progression Statistics
+==========================================
+
+~Time elapsed per game state~
+format: hours:minutes:seconds:milliseconds
+
+
+
+State 1 :
+00:00:00.0001774
+= 0 seconds
+
+State 2 :
+00:00:00.0000004
+= 0 seconds
+
+State 3 :
+00:00:00.0000004
+= 0 seconds
+
+State 4 :
+00:00:00.0000003
+= 0 seconds
+
+State 5 :
+00:00:00.0000003
+= 0 seconds
+
+State 6 :
+00:00:00.0000003
+= 0 seconds
+
+State 7 :
+00:00:00.0000005
+= 0 seconds
+
+State 8 :
+00:00:00.0000006
+= 0 seconds
+
+State 9 :
+00:00:00.0000006
+= 0 seconds
+
+State 10 :
+00:00:00.0000004
+= 0 seconds
+
+
+Average time per state = 0 seconds
+Total Time = 0 seconds
