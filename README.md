@@ -18,3 +18,6 @@ This is a proof of concept project for lab workers in the McDSL (McMaster Decisi
 
 The way the bot is able to communicate with the user in the simulation is through the [Google Cloud Text to Speech API](https://cloud.google.com/text-to-speech/) that is implemented in the [Frostweep Games Unity Asset](https://assetstore.unity.com/packages/add-ons/machinelearning/google-cloud-text-to-speech-115170). The asset made it possible to utilize the API within Unity and provide speech capabilities to the assistance bot. This makes the bot very robust when added to a simulation, since the API allows the bot to give direction and advice when specific events occur in a simulation. The bot is also able to respond to the users speech using the [Unity DictationRecognizer](https://docs.unity3d.com/ScriptReference/Windows.Speech.DictationRecognizer.html). The DictationRecognizer listens to keywords or phrases that the user speaks, and then replies a specific response specified in a config file.
 
+
+
+To create or modify existing config files, you can use [this web app](https://bot-factory.netlify.app/).
