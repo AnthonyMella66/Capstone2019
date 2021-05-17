@@ -2,6 +2,11 @@
 
 ## Virtual Reality Assistance Bot (Bot Factory)
 
+<br/>
+<p align="center">
+<img align="center" width="600" src="https://www.yooksel.com/static/media/vb-front.e572e7de.svg"/>
+</p>
+
 ### Group Members:
 
 [Anthony Xavier Mella](https://github.com/AnthonyMella66)
@@ -11,6 +16,8 @@
 [Hamid Yuksel](https://github.com/yukseltron) 
 
 [Tyler Philips](https://github.com/Philipsty)
+
+<br/>
 
 ### Project Description
 
